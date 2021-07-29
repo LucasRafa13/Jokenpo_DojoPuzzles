@@ -6,7 +6,7 @@ Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre trê
 - Tesoura empata com Tesoura e ganha de Papel
 - Papel empata com Papel e ganha de Pedra
 
-### Dependencias
+### Dependências
 
 - NodeJS 9.10.0
 
