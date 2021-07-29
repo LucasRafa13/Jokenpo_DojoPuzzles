@@ -6,7 +6,7 @@ Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre trê
 - Tesoura empata com Tesoura e ganha de Papel
 - Papel empata com Papel e ganha de Pedra
 
-### Dependencies
+### Dependencias
 
 - NodeJS 9.10.0
 
@@ -14,7 +14,7 @@ Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre trê
 
 Follow the steps to run the project:
 
-- [Clone repository or download it.]()
+- Clone o repositório
 - Depois de clonado, entre na pasta usando:`cd jokenpo`
 - Para baixar os modulos do programa dê: `npm install`
 - Para rodar insira o comando: `node index.js`
