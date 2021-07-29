@@ -10,9 +10,7 @@ Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre trê
 
 - NodeJS 9.10.0
 
-### Installing / Getting started
-
-Follow the steps to run the project:
+### Iniciando
 
 - Clone o repositório
 - Depois de clonado, entre na pasta usando:`cd jokenpo`
